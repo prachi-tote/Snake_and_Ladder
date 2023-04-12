@@ -1,7 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
 
-
 namespace Snake_And_Ladder
 {
     internal class Program
@@ -16,6 +15,25 @@ namespace Snake_And_Ladder
             int Die_num = random.Next(1, 7);
             Console.WriteLine(" Number after rolling a die:");
             Console.WriteLine($" {Die_num}");
+
+            int option = random.Next(3);
+            switch (option)
+            {
+                case 0:
+                    Console.WriteLine("No Play");
+                    Console.WriteLine("The Player is on initial position = " + Player_position);
+                    break;
+                case 1:
+                    Console.WriteLine("Got Ladder");
+                    Player_position = Player_position + Die_num;
+                    Console.WriteLine("The Position is added = " + Player_position);
+                    break;
+                case 2:
+                    Console.WriteLine("Got Snake");
+                    Player_position = Player_position - Die_num;
+                    Console.WriteLine("The Position is subtracted = " + Player_position);
+                    break;
+            }
 
 
         }
