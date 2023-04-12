@@ -1,0 +1,15 @@
+C:\Users\prachi\source\repos\Snake_and_Ladder\Snake_and_Ladder\bin\Debug\net6.0\Snake_and_Ladder.exe
+C:\Users\prachi\source\repos\Snake_and_Ladder\Snake_and_Ladder\bin\Debug\net6.0\Snake_and_Ladder.deps.json
+C:\Users\prachi\source\repos\Snake_and_Ladder\Snake_and_Ladder\bin\Debug\net6.0\Snake_and_Ladder.runtimeconfig.json
+C:\Users\prachi\source\repos\Snake_and_Ladder\Snake_and_Ladder\bin\Debug\net6.0\Snake_and_Ladder.dll
+C:\Users\prachi\source\repos\Snake_and_Ladder\Snake_and_Ladder\bin\Debug\net6.0\Snake_and_Ladder.pdb
+C:\Users\prachi\source\repos\Snake_and_Ladder\Snake_and_Ladder\obj\Debug\net6.0\Snake_and_Ladder.csproj.AssemblyReference.cache
+C:\Users\prachi\source\repos\Snake_and_Ladder\Snake_and_Ladder\obj\Debug\net6.0\Snake_and_Ladder.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prachi\source\repos\Snake_and_Ladder\Snake_and_Ladder\obj\Debug\net6.0\Snake_and_Ladder.AssemblyInfoInputs.cache
+C:\Users\prachi\source\repos\Snake_and_Ladder\Snake_and_Ladder\obj\Debug\net6.0\Snake_and_Ladder.AssemblyInfo.cs
+C:\Users\prachi\source\repos\Snake_and_Ladder\Snake_and_Ladder\obj\Debug\net6.0\Snake_and_Ladder.csproj.CoreCompileInputs.cache
+C:\Users\prachi\source\repos\Snake_and_Ladder\Snake_and_Ladder\obj\Debug\net6.0\Snake_and_Ladder.dll
+C:\Users\prachi\source\repos\Snake_and_Ladder\Snake_and_Ladder\obj\Debug\net6.0\refint\Snake_and_Ladder.dll
+C:\Users\prachi\source\repos\Snake_and_Ladder\Snake_and_Ladder\obj\Debug\net6.0\Snake_and_Ladder.pdb
+C:\Users\prachi\source\repos\Snake_and_Ladder\Snake_and_Ladder\obj\Debug\net6.0\Snake_and_Ladder.genruntimeconfig.cache
+C:\Users\prachi\source\repos\Snake_and_Ladder\Snake_and_Ladder\obj\Debug\net6.0\ref\Snake_and_Ladder.dll
